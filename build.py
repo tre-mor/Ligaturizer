@@ -29,6 +29,7 @@ OUTPUT_DIR = 'fonts/output/'
 # SIL OFL here either unless they haven't specified a Reserved Font Name.
 
 prefixed_fonts = [
+  'fonts/ApercuMonoProRegular*.ttf'
   # Apache 2.0 license
   'fonts/codeface/fonts/cousine/*.ttf',
   'fonts/codeface/fonts/droid-sans-mono/*.ttf',
